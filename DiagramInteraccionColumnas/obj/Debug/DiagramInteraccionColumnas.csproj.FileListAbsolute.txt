@@ -1,0 +1,9 @@
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\bin\Debug\DiagramInteraccionColumnas.exe.config
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\bin\Debug\DiagramInteraccionColumnas.exe
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\bin\Debug\DiagramInteraccionColumnas.pdb
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\obj\Debug\DiagramInteraccionColumnas.csprojResolveAssemblyReference.cache
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\obj\Debug\DiagramInteraccionColumnas.Form1.resources
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\obj\Debug\DiagramInteraccionColumnas.Properties.Resources.resources
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\obj\Debug\DiagramInteraccionColumnas.csproj.GenerateResource.Cache
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\obj\Debug\DiagramInteraccionColumnas.exe
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\DiagramInteraccionColumnas\DiagramInteraccionColumnas\obj\Debug\DiagramInteraccionColumnas.pdb
